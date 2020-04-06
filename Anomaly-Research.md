@@ -38,3 +38,8 @@ Small bombs will be required for the first few cores, and then scale up to a Max
 
 ## Core limits
 There is a maximum limit on the number of each type of anomaly introduced into the round, no more than **8 per type** should be able to exist in a round, this variable should be easily exposed to coders to allow the tweaking up and down per type
+
+### The max limits
+Yes the number 8 is pretty much arbitrary, but I wanted to start out with a smaller number on the basis it will be a lot easier to increase this number at a later point, rather than have to turn it **down** with all the associated rage that brings.
+
+In an ideal world the numbers wouldn't be politicised and adjusting them would be a standard thing for maintainers to do, but that is an unlikely event.
