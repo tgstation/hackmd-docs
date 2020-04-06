@@ -1,7 +1,7 @@
 ---
 tags: Design, Anomalies, Research
 ---
-# Anomaly Research
+# Anomaly cores production
 
 ## Justification
 We need a new system to control the rare item economy, rare items are very high super tech level items from the techweb, e.g. The Bag of Holding, The Beam Rifle and the Phazon mech.
@@ -20,10 +20,10 @@ It will also require the Anomaly producers to decide how to best allocate their 
 To do so we are taking the existing Anomaly cores system and overhauling it, it already touched on some aspects of this with the reactive armours, but didn't go far enough, and lacked the ability to farm the cores in a productive and reliable manner.
 
 ## Production of cores
-Production of the cores is a two step process, first, raw material for a specific type of Anomaly core is gathered in the collection phase, then, it is refined into a useable Anomaly core in the Refinement phase via the use of Toxins bombs
+Production of the cores is a two step process, first, raw cores for a specific type of Anomaly core is gathered in the collection phase, then, it is refined into a useable Anomaly core in the Refinement phase via the use of Toxins bombs
 
-### Production of raw material
-TBC
+### Production of raw cores
+The raw cores are ordered via cargo, one core per crate (with a maximum number of raw cores available as per the core limits, this can be LORED as NT only making a certain number of these expensive items available), you start with 2 of **each** type in the science bay, so can produce 2 of each type of core without needing the cargo team to order more.
 
 ### Refinement of raw material into useable product
 Refining the raw core item into a useable product requires the use of toxins and bomb making. The core must be compressed using an explosion to refine it into something that can be placed into the items.
