@@ -1,3 +1,6 @@
+---
+tags: Technical, Chat, UI
+---
 # Runescape-Style Chat
 
 In this document you will find a description of how this system was built, how it functions, and important things to note.
