@@ -24,9 +24,10 @@ These should work like the shuttle transit space reservation, it blocks out an a
 
 This allows for research of larger mechanisms that give more space.
 
+## Input/Output
 The user can attach large tanks to the mechanisms, these can be either for input, or output, and create a corresponding input/output node in the appropriate space on the factory z level. There should also be an output for patches/pills
 
-## Gaining chemistry tanks
+### Gaining chemistry tanks
 Chemistry tanks can be ordered from cargo, and contain pre existing bulk precursor chems, empty ones can be built from the science protolathe (chem should have access to this right?)
 
 
