@@ -35,7 +35,7 @@ The general way in which I hope to acheive this is to make access flag slots and
 ## Card levels
 Cards are assigned a number of wildcard, and predefined slots based on the Colour of the card and the Trim.
 
-They also have a maximum flag level that determines the highest level of access flags that can be added to this card.
+They also have a maximum flag level per wildcard slot that determines the highest level of acces category that specific slot can support.
 
 This means that basic ID cards can only carry a small number of accesses, which means, even with a wallet, you have to make decisions about what accesses you actually grant yourself, or hustle and grind to get yourself access to the higher tier cards, with commensurate increases in your visibility and risk taking.
 
